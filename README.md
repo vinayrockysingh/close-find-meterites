@@ -5,3 +5,11 @@ learning basics of python
 this package requires python3 and requests packages.
 
     `python3 find_meteors.py`
+
+first install pipenv and then.
+
+   ```
+
+       pipenv install
+       pipenv run "python find_meteors.py"
+   ```
